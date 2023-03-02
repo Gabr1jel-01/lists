@@ -14,3 +14,11 @@ print()
 print(first_element)
 print(last_element)
 print()
+
+new_list = []
+for i in range(10, 21):
+    new_list.append(numbers[i])
+    
+print()
+print(new_list)
+print()
